@@ -16,5 +16,8 @@ npm install
 
 #复制配置文件,并将其中的baseUrl修改成测试项目域名
 cp cypress.example.json cypress.json
+
+#启动
+npm run cypress:open
 ```
 
