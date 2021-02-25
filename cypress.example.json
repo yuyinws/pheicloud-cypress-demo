@@ -1,4 +1,4 @@
 {
-  "baseUrl": "http://192.168.1.1", //测试项目的域名
-  "watchForFileChanges": true //是否开启热加载
+  "baseUrl": "http://192.168.1.1",
+  "watchForFileChanges": true
 }
